@@ -1,22 +1,21 @@
+# 👋 Olá, eu sou Alice 🐇
 
-# 👋 Olá, eu sou Daniel Steinbruch
+### Transformo códigos em acordes e ideias em realidade.
 
-### Transformo conhecimento em soluções.
+Atuo conectando **tecnologia, desenvolvimento de software, música e arte** para criar soluções digitais autênticas e experiências sonoras marcantes. 
 
-Atuo conectando **educação, tecnologia, inteligência artificial e gestão** para criar experiências de aprendizagem, desenvolver projetos digitais e impulsionar a inovação em organizações e pessoas.
-
-Sou docente, orientador educacional e analista de sistemas em formação. Minha jornada une visão estratégica, desenvolvimento de software, análise de dados e inteligência artificial, sempre com foco em gerar impacto real.
+Sou programadora, cantora e compositora. Minha jornada une lógica e sensibilidade: de um lado, linhas de código limpas e automações; do outro, melodias, harmonias e poesia. Sigo o coelho branco rumo à inovação e à criatividade sem limites.
 
 ---
 
 ## 🚀 Sobre mim
 
-* 🎓 Docente e Orientador Educacional no Senac-RS
-* 💻 Estudante de Análise e Desenvolvimento de Sistemas
-* 🤖 Entusiasta e aplicador de Inteligência Artificial
-* 📊 Apaixonado por dados, inovação e transformação digital
-* 🌱 Aprendizado contínuo em desenvolvimento de software, automação e IA
-* 🎯 Focado em criar soluções que conectem pessoas, conhecimento e tecnologia
+* 💻 Programadora com foco em desenvolvimento web e automação
+* 🎤 Cantora e Compositora independente no projeto **Alice** (@programandocomAlice)
+* 🎧 Criadora de experiências sonoras que transitam pelo "caos sonoro", MPB, Samba e vertentes eletrônicas
+* 🤖 Entusiasta do uso de Inteligência Artificial na música e na produtividade
+* 🌱 Em constante aprendizado na toca do coelho do desenvolvimento de software
+* 🎯 Focada em criar soluções lógicas sem perder a essência artística
 
 ---
 
@@ -41,26 +40,24 @@ Sou docente, orientador educacional e analista de sistemas em formação. Minha 
 
 ---
 
-## 🤖 Inteligência Artificial & Produtividade
+## 🤖 Criatividade, IA & Produtividade
 
 <div align="left">
 
-| Ferramenta           | Aplicação                                              |
-| -------------------- | ------------------------------------------------------ |
-| ChatGPT              | Pesquisa, automação, geração de conteúdo e programação |
-| Claude               | Análise, escrita estratégica e documentação            |
-| Excel                | Dashboards, indicadores e análise de dados             |
-| Canva                | Design, apresentações e comunicação visual             |
-| Notion               | Organização de projetos e gestão do conhecimento       |
-| Copilot              | Apoio ao desenvolvimento de software                   |
-| Engenharia de Prompt | Construção de fluxos inteligentes                      |
-| IA Generativa        | Educação, produtividade e inovação                     |
+| Ferramenta / Hub      | Aplicação                                              |
+| --------------------- | ------------------------------------------------------ |
+| VS Code / GitHub      | Onde a mágica do código e dos meus scripts acontece     |
+| Logic Pro / Ableton   | Produção musical, arranjos e mixagem (Caos Sonoro)     |
+| ChatGPT / Claude      | Engenharia de prompt, automações e insights            |
+| Notion                | Organização de projetos, composições e roadmaps        |
+| Canva / Photoshop     | Identidade visual das tracks, capas de álbuns e posts  |
+| DistroKid / OneRPM    | Distribuição das minhas músicas nas plataformas digitais|
 
 </div>
 
 ---
 
-## 🌱 Em evolução
+## 🌱 Em evolução na toca do coelho
 
 <div align="left">
 
@@ -69,17 +66,6 @@ Sou docente, orientador educacional e analista de sistemas em formação. Minha 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" title="Supabase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
-
-</div>
-
----
-
-## 💻 Ambiente
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" title="Windows 11"/>
 
 </div>
 
@@ -87,58 +73,21 @@ Sou docente, orientador educacional e analista de sistemas em formação. Minha 
 
 ## 🎯 Áreas de Interesse
 
-* Inteligência Artificial
-* Desenvolvimento Web
-* Análise de Dados
-* Automação de Processos
-* Product Ownership
-* Gestão de Projetos
-* Educação e Tecnologias de Aprendizagem
-* UX e Experiência do Usuário
-* Inovação e Transformação Digital
+* Desenvolvimento Web (Fullstack)
+* Produção Musical & Engenharia de Som
+* Automação de Processos com Python
+* Inteligência Artificial aplicada às Artes e Música
+* Design de Interface (UI/UX) para plataformas criativas
+* Identidade Visual e Direção de Arte
 
 ---
 
-## 📈 Atualmente estudando
+## 📈 Atualmente estudando & Praticando
 
 ```text
-☕ Java
-⚡ Angular
-🚀 FastAPI
-🗄️ Banco de Dados
-🤖 Inteligência Artificial Aplicada
-📊 Análise de Dados
-☁️ Cloud Computing
-```
-
----
-
-## 📫 Vamos conectar?
-
-<div>
-
-<a href="https://www.linkedin.com/in/daniel-steinbruch-a1115a164/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:danielsteinbruch@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/5551981418383" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@danielsteinbruch?si=f4HIg3IVhVxWq73C" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-> **"A tecnologia por si só não transforma o mundo. Pessoas que aprendem, inovam e compartilham conhecimento, sim."** 🚀
-
-Dontpad uses cookies and similar technologies to improve your experience and to show you more relevant ads, according to our cookie policy. By clicking 'Accept' you are indicating that you have read and that you accept our Cookie Policy, Privacy Policy and Content Policy.
-
-Accept
+🐍 Python para Automações Avançadas
+☕ Java & Angular 
+🚀 FastAPI & Integrações de APIs
+🎛️ Produção de Música Eletrônica & Arranjos
+🎵 Harmonia e Canto (MPB e Samba)
+🤖 Inteligência Artificial Generativa
